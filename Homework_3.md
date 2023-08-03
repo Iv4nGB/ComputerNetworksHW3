@@ -3,7 +3,7 @@
 
 1. Усложняем сеть из предыдущего домашнего задания. Используя только статическую маршрутизацию связать сеть компов и сервера
 
-[s2.1_homework.pkt](https://github.com/Iv4nGV/ComputerNetworksHW3/blob/main/s2.1_homework.pkt)
+[s2.1_homework.pkt](https://github.com/Iv4nGB/ComputerNetworksHW3/blob/main/s2.1_homework%20(1).pkt)
 
 ![скрин выполненой работы](Screen/Homework3_1.png)
 
